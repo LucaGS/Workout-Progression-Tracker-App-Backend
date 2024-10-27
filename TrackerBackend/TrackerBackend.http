@@ -1,0 +1,6 @@
+@TrackerBackend_HostAddress = http://localhost:5069
+
+GET {{TrackerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
